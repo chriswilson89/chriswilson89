@@ -1,16 +1,13 @@
-## Hi there 👋
+# Chris Wilson Antuvan
 
-<!--
-**chriswilson89/chriswilson89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cofounder and CTO at [Insight Vision AI](https://insight-vision-ai.com), Singapore.
 
-Here are some ideas to get you started:
+We build edge-native computer vision for regulated manufacturing. Systems that watch an industrial process, interpret what they see against the procedure, and produce the record the plant is released on. Current work is in pharmaceutical bioreactor operations, with a second line in pipe and asset inspection for energy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before this I spent 10+ years as a data scientist in production AI for regulated healthcare, including FDA-cleared clinical software as a medical device.
+
+Working on: vision language models running on industrial edge hardware, anomaly detection with very little labelled data, integration into plant control and manufacturing systems, and audit trails that hold up under GxP scrutiny.
+
+Most of my work sits in private repositories. Happy to walk through architecture or share a read-only view, just reach out.
+
+[LinkedIn](https://www.linkedin.com/in/chris-wilson-antuvan-phd-8b322019/) · chris@insight-vision-ai.com
