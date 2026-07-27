@@ -10,4 +10,4 @@ Working on: vision language models running on industrial edge hardware, anomaly 
 
 Most of my work sits in private repositories. Happy to walk through architecture or share a read-only view, just reach out.
 
-[LinkedIn](https://www.linkedin.com/in/chris-wilson-antuvan-phd-8b322019/) · chris@insight-vision-ai.com
+[LinkedIn](https://www.linkedin.com/in/chris-wilson-antuvan-phd-8b322019/) · chris.wilson@insight-vision-ai.com
